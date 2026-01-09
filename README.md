@@ -6,10 +6,10 @@ This specification defines the Federation Subordinate Events Endpoint for implem
 ## Builds
 
 The latest editors' draft can be viewed at
-https://peppelinux.github.io/federation-subordinate-events/main.html
+https://openid.github.io/federation-subordinate-events/main.html
 
 Branches can be viewed at
-https://peppelinux.github.io/federation-subordinate-events/{BRANCH-NAME}.html
+https://openid.github.io/federation-subordinate-events/{BRANCH-NAME}.html
 
 ## Build the HTML ##
 
