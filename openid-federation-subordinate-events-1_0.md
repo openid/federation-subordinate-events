@@ -226,13 +226,13 @@ apply to this specification.
         <author fullname="Vladimir Dzhuvinov">
             <organization>Connect2id</organization>
         </author>
-        <date day="24" month="October" year="2024"/>
+        <date day="4" month="December" year="2025"/>
     </front>
 </reference>
 
 # Notices
 
-Copyright (c) 2025 The OpenID Foundation.
+Copyright (c) 2026 The OpenID Foundation.
 
 The OpenID Foundation (OIDF) grants to any Contributor, developer,
 implementer, or other interested party a non-exclusive, royalty free,
@@ -276,7 +276,7 @@ We would like to thank the following individuals for their contributions to this
 Vladimir Dzhuvinov,
 Roland Hedberg,
 and
-Andres Olave
+Andres Olave.
 
 # Document History
 
