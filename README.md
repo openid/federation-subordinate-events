@@ -1,7 +1,12 @@
-# OpenID Federation Subordinate Events 1.0
+# OpenID Federation Subordinate Events Endpoint 1.0
 
-This repository contains the OpenID Federation Subordinate Events specification.
+This repository contains the OpenID Federation Subordinate Events Endpoint specification.
 This specification defines the Federation Subordinate Events Endpoint for implementations using OpenID Federation 1.0. It provides a mechanism for Trust Anchors and Intermediates to publish historical events related to their Immediate Subordinates, such as registration, revocation, and updates of their Federation Entity Keys.
+
+## Releases
+
+The latest released draft of the specification is available at
+https://openid.net/specs/openid-federation-subordinate-events-1_0.html
 
 ## Builds
 
