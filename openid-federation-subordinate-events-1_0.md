@@ -188,11 +188,11 @@ apply to this specification.
 
 ## Media Type Registration
 
-### application/entity-events-statement+jwt
-
 This specification registers the following media type [@RFC2046]
 in the IANA "Media Types" registry [@IANA.MediaTypes]
 in the manner described in [@RFC6838].
+
+### application/entity-events-statement+jwt
 
 * Type name: application
 * Subtype name: entity-events-statement+jwt
